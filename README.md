@@ -1,4 +1,15 @@
-# Laravel Multi Auth #
+# IMPORTANT: Laravel 5.1 and onward #
+
+Please head over to https://github.com/Kbwebs/MultiAuth as a replacement. kbwebs' fork is fully compatible with Laravel 5.1.
+Moving from my for to this should not need any changes in your code.
+
+
+
+
+
+
+
+## Laravel Multi Auth ##
 
 - **Laravel**: 5
 - **Author**: Ramon Ackermann
