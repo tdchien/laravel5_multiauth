@@ -1,8 +1,8 @@
 {
-    "name": "Chientd/laravel5_multiauth",
+    "name": "chientd/laravel5_multiauth",
     "description": "Multiple auth driver for Laravel 5",
-	"keywords": ["laravel", "laravel 5", "multi", "auth"],
-	"license": "MIT",
+    "keywords": ["laravel", "laravel 5", "multi", "auth"],
+    "license": "MIT",
     "authors": [
         {
           "name": "Chien Tran",
