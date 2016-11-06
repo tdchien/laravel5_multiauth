@@ -1,4 +1,4 @@
-<?php namespace Ollieread\Multiauth;
+<?php namespace Chientd\Multiauth;
 
 use Illuminate\Auth\Guard as OriginalGuard;
 use Illuminate\Contracts\Auth\UserProvider;

@@ -1,5 +1,5 @@
 {
-    "name": "tdchien/laravel5_multiauth",
+    "name": "Chientd/laravel5_multiauth",
     "description": "Multiple auth driver for Laravel 5",
 	"keywords": ["laravel", "laravel 5", "multi", "auth"],
 	"license": "MIT",

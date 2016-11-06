@@ -1,4 +1,4 @@
-<?php namespace Ollieread\Multiauth;
+<?php namespace Chientd\Multiauth;
 
 use Illuminate\Auth\AuthManager as OriginalAuthManager;
 use Illuminate\Auth\DatabaseUserProvider;

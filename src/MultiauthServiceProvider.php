@@ -1,4 +1,4 @@
-<?php namespace Ollieread\Multiauth;
+<?php namespace Chientd\Multiauth;
 
 use Illuminate\Support\ServiceProvider;
 
