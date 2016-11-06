@@ -4,7 +4,7 @@ use Illuminate\Foundation\Application;
 
 /**
  * Class MultiManager
- * @package Ollieread\Multiauth
+ * @package Chientd\Multiauth
  */
 class MultiManager
 {

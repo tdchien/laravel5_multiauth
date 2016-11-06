@@ -1,4 +1,4 @@
-<?php namespace Ollieread\Multiauth\Passwords;
+<?php namespace Chientd\Multiauth\Passwords;
 
 use Illuminate\Mail\Mailer;
 

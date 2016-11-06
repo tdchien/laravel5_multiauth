@@ -4,7 +4,7 @@ use Illuminate\Support\ServiceProvider;
 
 /**
  * Class MultiauthServiceProvider
- * @package Ollieread\Multiauth
+ * @package Chientd\Multiauth
  */
 class MultiauthServiceProvider extends ServiceProvider
 {

@@ -1,4 +1,4 @@
-<?php namespace Ollieread\Multiauth\Console;
+<?php namespace Chientd\Multiauth\Console;
 
 use Illuminate\Console\Command;
 use Illuminate\Filesystem\Filesystem;

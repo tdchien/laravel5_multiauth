@@ -6,7 +6,7 @@ use Illuminate\Auth\EloquentUserProvider;
 
 /**
  * Class AuthManager
- * @package Ollieread\Multiauth
+ * @package Chientd\Multiauth
  */
 class AuthManager extends OriginalAuthManager
 {
@@ -43,7 +43,7 @@ class AuthManager extends OriginalAuthManager
      *
      * @param string $driver
      *
-     * @return \Illuminate\Auth\Guard|\Ollieread\Multiauth\Guard
+     * @return \Illuminate\Auth\Guard|\Chientd\Multiauth\Guard
      */
     protected function callCustomCreator($driver)
     {
@@ -59,7 +59,7 @@ class AuthManager extends OriginalAuthManager
     /**
      * Create an instance of the database driver.
      *
-     * @return \Ollieread\Multiauth\Guard
+     * @return \Chientd\Multiauth\Guard
      */
     public function createDatabaseDriver()
     {
@@ -84,7 +84,7 @@ class AuthManager extends OriginalAuthManager
     /**
      * Create an instance of the Eloquent driver.
      *
-     * @return \Ollieread\Multiauth\Guard
+     * @return \Chientd\Multiauth\Guard
      */
     public function createEloquentDriver()
     {

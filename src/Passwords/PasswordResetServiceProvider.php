@@ -1,9 +1,9 @@
-<?php namespace Ollieread\Multiauth\Passwords;
+<?php namespace Chientd\Multiauth\Passwords;
 
 use Illuminate\Support\ServiceProvider;
-use Ollieread\Multiauth\Console\PasswordResetsTableCommand;
-use Ollieread\Multiauth\Console\ClearPasswordResetsCommand;
-use Ollieread\Multiauth\Passwords\DatabaseTokenRepository as DbRepository;
+use Chientd\Multiauth\Console\PasswordResetsTableCommand;
+use Chientd\Multiauth\Console\ClearPasswordResetsCommand;
+use Chientd\Multiauth\Passwords\DatabaseTokenRepository as DbRepository;
 
 class PasswordResetServiceProvider extends ServiceProvider
 {

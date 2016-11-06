@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\Auth;
 
 /**
  * Class Guard
- * @package Ollieread\Multiauth
+ * @package Chientd\Multiauth
  */
 class Guard extends OriginalGuard
 {
